@@ -7,5 +7,4 @@
 ### From the line chart, we can see they all have very similar trends before April, but Suburban has uptrend after April compare the others, one reason I can imagine is suburban is not that crowded compare urban area and vacations are popular during summer, people like go outside but still not too far from urban, suburban becomes the top choice.
 <img width="641" alt="Screen Shot 2021-09-16 at 6 55 42 PM" src="https://user-images.githubusercontent.com/88211298/133711428-5701204a-539e-47cb-bcbd-da63d6d67941.png">
 ## Summary:
-
 ### The first recommendation is we can hire more drivers in suburban and a little bit more in rural area because there still have capacity to grow in such area compare with urban area. The second recommendation is we should reduce drivers in urban area to prevent some uesless waste. The third one is we can switch some of urban drivers to suburban in summer to optimize the profit because total fare decrease in urban area after April and increase in suburban area.
